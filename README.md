@@ -7,7 +7,7 @@ The C++ implementation of the Constrained Linear population size reduction Succe
 Ubuntu 20.04
 OpenMPI 4.0.3
 GCC 11.4.0
-Eigen 3.4.0 (downloaded separately!)
+Eigen 3.4.0
 
 Should work on Windows as well.
 
