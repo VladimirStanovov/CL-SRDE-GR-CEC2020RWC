@@ -7,9 +7,6 @@ using namespace std;
 /// C++ implementation of the test suite for the
 ///     Congress on Evolutionary Computation 2020
 ///     Competition on Real-World Constrained optimization
-/// Author: Vladimir Stanovov (vladimirstanovov@yandex.ru)
-///     Reshetnev Siberian State University of Science and Technology
-///     Krasnoyarsk, Russian Federation
 /// Last change: 16/03/2025
 /// Dependencies:
 ///     C++ Eigen library (version 3.4.0 used during development)

@@ -1,9 +1,6 @@
 /// Implementation of CL-SRDE-GR algorithm for the
 ///     Congress on Evolutionary Computation 2020
 ///     Competition on Real-World Constrained Optimization
-/// Author: Vladimir Stanovov (vladimirstanovov@yandex.ru)
-///     Reshetnev Siberian State University of Science and Technology
-///     Krasnoyarsk, Russian Federation
 /// Last change: 23/05/2025
 
 #include <math.h>
